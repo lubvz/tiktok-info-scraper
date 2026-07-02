@@ -1,4 +1,4 @@
-# tiktok-info-scraper
+# a simple tiktok-info-scraper
 
 a simple tiktok info scraper
 
